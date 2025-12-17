@@ -25,15 +25,16 @@ MySQL
 Postman
 
 **🗂️ Repository Structure**
+
 springboot-full-course
-session-01-java-generics-collections
-session-02-jsp-javaee
-session-03-spring-di
-session-04-spring-aop
-session-05-spring-jdbc
-session-06-exception-handling
-session-07-spring-boot-intro
-session-08-rest-apis
-session-09-mini-project
-README.md
+  session-01-java-generics-collections
+  session-02-jsp-javaee
+  session-03-spring-di
+  session-04-spring-aop
+  session-05-spring-jdbc
+  session-06-exception-handling
+  session-07-spring-boot-intro
+  session-08-rest-apis
+  session-09-mini-project
+  README.md
 
