@@ -26,7 +26,7 @@ Postman
 
 **🗂️ Repository Structure**
 
-springboot-full-course
+springboot-full-course: 
   session-01-java-generics-collections
   session-02-jsp-javaee
   session-03-spring-di
@@ -37,4 +37,3 @@ springboot-full-course
   session-08-rest-apis
   session-09-mini-project
   README.md
-
